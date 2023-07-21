@@ -1,4 +1,4 @@
-# QuanLyDanCu_Nhom_4
+# AppQuanLy
 Chương trình mẫu
 
 # Hướng dẫn cài đặt
